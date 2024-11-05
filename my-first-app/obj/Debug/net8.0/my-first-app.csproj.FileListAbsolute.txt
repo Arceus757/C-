@@ -1,0 +1,14 @@
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\bin\Debug\net8.0\my-first-app.exe
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\bin\Debug\net8.0\my-first-app.dll
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.AssemblyInfoInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.AssemblyInfo.cs
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.csproj.CoreCompileInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.dll
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\refint\my-first-app.dll
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.pdb
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\bin\Debug\net8.0\my-first-app.deps.json
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\bin\Debug\net8.0\my-first-app.runtimeconfig.json
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\bin\Debug\net8.0\my-first-app.pdb
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\my-first-app.genruntimeconfig.cache
+c:\Users\dmytro.malanchuk\Documents\C#\my-first-app\obj\Debug\net8.0\ref\my-first-app.dll
